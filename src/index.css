@@ -1,0 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&display=swap');
+
+:root{
+  --roboto: 'Noto Sans JP', sans-serif;
+  --gray: #ccc6ff;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--roboto);
+}
+
+body{
+  width: 100%;
+  height: 100vh;
+  background-color: #fffdf3;
+}
